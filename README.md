@@ -1,6 +1,12 @@
 # 📖 Description
 
-This is a module to learn the basics of Python, following OpenClassRooms' lesson called [Apprenez les bases du langage Python](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python).
+This is a module to learn the basics of Python, following OpenClassrooms' lesson called [Apprenez les bases du langage Python](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python).
+Several concepts are discovered, such as: 
+- F-strings
+- Lists
+- Dictionaries
+- Modules
+- Data extraction from websites and csv files
 
 # ⚙️ Installation
 
